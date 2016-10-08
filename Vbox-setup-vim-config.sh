@@ -5,4 +5,5 @@ libgtk2.0-dev libatk1.0-dev libbonoboui2-dev \
 libcairo2-dev libx11-dev libxpm-dev libxt-dev python-dev \
 python3-dev lua5.1 lua5.1-dev git curl \
 build-essential module-assistant tree linux-headers-$(uname -r) \
-tmux
+tmux autoconf bison libssl-dev libyaml-dev libreadline6-dev zlib1g-dev \
+libffi-dev libgdbm3 libgdbm-dev
