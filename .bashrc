@@ -123,8 +123,6 @@ alias gl='git log --pretty=format:"%C(yellow)%h%C(reset)|%C(bold blue)%an%C(rese
 alias aptu='sudo apt-get update'
 alias aptc='sudo apt-cache search'
 alias aptd='sudo apt-get dist-upgrade'
-alias apty='sudo apt-get -y install'
-alias apti='sudo apt-get install'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
